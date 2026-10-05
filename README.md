@@ -34,8 +34,3 @@ See docs/API_DOCUMENTATION.md. POST /api/enquiries is public; GET/PUT/DELETE req
 ## Security
 Parameterized SQL, input sanitization (< > stripped) + React output escaping, helmet, CORS allow-list, rate limiting, bcrypt, JWT (2h), body size limit, secrets in .env (never committed)
 
-## Screenshots
-(add images here)
-
-## Live demo
-(link if available)
